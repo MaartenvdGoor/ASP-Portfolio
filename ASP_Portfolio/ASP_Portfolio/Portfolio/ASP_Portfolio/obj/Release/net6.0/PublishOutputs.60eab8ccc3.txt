@@ -1,0 +1,7 @@
+C:\Users\maart\Documents\Programming Projects\Personal\ASP_Portfolio\ASP_Portfolio\Portfolio\ASP_Portfolio\obj\Release\net6.0\PubTmp\Out\ASP_Portfolio.exe
+C:\Users\maart\Documents\Programming Projects\Personal\ASP_Portfolio\ASP_Portfolio\Portfolio\ASP_Portfolio\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\maart\Documents\Programming Projects\Personal\ASP_Portfolio\ASP_Portfolio\Portfolio\ASP_Portfolio\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\maart\Documents\Programming Projects\Personal\ASP_Portfolio\ASP_Portfolio\Portfolio\ASP_Portfolio\obj\Release\net6.0\PubTmp\Out\ASP_Portfolio.dll
+C:\Users\maart\Documents\Programming Projects\Personal\ASP_Portfolio\ASP_Portfolio\Portfolio\ASP_Portfolio\obj\Release\net6.0\PubTmp\Out\ASP_Portfolio.deps.json
+C:\Users\maart\Documents\Programming Projects\Personal\ASP_Portfolio\ASP_Portfolio\Portfolio\ASP_Portfolio\obj\Release\net6.0\PubTmp\Out\ASP_Portfolio.runtimeconfig.json
+C:\Users\maart\Documents\Programming Projects\Personal\ASP_Portfolio\ASP_Portfolio\Portfolio\ASP_Portfolio\obj\Release\net6.0\PubTmp\Out\ASP_Portfolio.pdb
